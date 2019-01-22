@@ -15,7 +15,8 @@
 
 ## Examples
 
-- [DOM Model - 0](DOM-Model-00.png)
+- [DOM Model - 0 - 1](DOM-Model-00-01.png)
+- [DOM Model - 0 - 2](DOM-Model-00-02.png)
 - [DOM Model - 1](DOM-Model-01.png)
 - [DOM Model - 2](DOM-Model-02.svg)
 - [DOM Model - 3](DOM-Model-03.txt)
