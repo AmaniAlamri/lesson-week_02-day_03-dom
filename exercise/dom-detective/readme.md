@@ -7,6 +7,5 @@ Use the DOM access methods we learned to find the following parts of the page. T
 - The three divs with GDI stats (as a collection)
 - The image header with the headline, "DON'T BE SHY DEVELOP IT"
 - The navigation menu at the top
-- The GDI logo in the upper-left
+- The GA logo in the upper-left
 - The media logos (TED, lifehacker, etc.) at the bottom (as a collection)
-- All the red dots on the US map (as a collection)
